@@ -1,0 +1,12 @@
+<library path="lib/librqt_sonardyne">
+    <class name="rqt_sonardyne/SonardyneRangerPlugin" type="rqt_sonardyne::SonardyneRangerPlugin" base_class_type="rqt_gui_cpp::Plugin">
+        <description>
+            An interface to view and control Sonardyne USBL systems.
+        </description>
+        <qtgui>
+            <label>Sonardyne Ranger Plugin</label>
+            <icon type="theme">system-help</icon>
+            <statustip>View and control Sonardyne systems</statustip>
+        </qtgui>
+    </class>   
+</library>
