@@ -1,7 +1,7 @@
 #include "rqt_sonardyne/sonardyne_ranger_plugin.h"
 #include <pluginlib/class_list_macros.h>
 #include <ros/master.h>
-#include <marine_msgs/KeyValue.h>
+#include <project11_msgs/KeyValue.h>
 #include <QLineEdit>
 #include <QLabel>
 
