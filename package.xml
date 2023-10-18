@@ -13,6 +13,7 @@
   <depend>roscpp</depend>
   <depend>rqt_gui_cpp</depend>
   <depend>rqt_gui</depend>
+  <depend>project11_msgs</depend>
 
   <export>
     <rqt_gui plugin="${prefix}/plugin.xml"/>
